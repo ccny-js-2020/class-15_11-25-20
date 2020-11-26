@@ -1,5 +1,5 @@
 //key in order to gain access to the api
-var apiKey = "dc6zaTOxFJmzC";
+var apiKey = "";
 //making the search term url friendly
 var giphySearchTermForUrl = "metallica";
 //number of results went from the api response

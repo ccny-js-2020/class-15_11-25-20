@@ -1,5 +1,5 @@
 //key in order to gain access to the api
-var apiKey = "dc6zaTOxFJmzC";
+var apiKey = "";
 //api input search term
 var giphySearchTerm = "coding";
 //making the search term url friendly
