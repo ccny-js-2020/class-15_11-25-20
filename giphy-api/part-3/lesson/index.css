@@ -1,0 +1,24 @@
+img {
+  padding: 15px;
+}
+
+.lower-opacity {
+  opacity: 0.3;
+}
+
+.image-title-p-moving {
+  z-index: 1;
+  /* bottom: 100px; */
+  top: 250px;
+  position: absolute;
+  color: blue;
+  left: 75px;
+}
+
+.image-title-p-still {
+  z-index: 1;
+  top: 450px;
+  position: absolute;
+  color: blue;
+  left: 75px;
+}
