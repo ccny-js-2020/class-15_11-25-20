@@ -1,0 +1,34 @@
+#celsius-checkbox {
+  transform: scale(2);
+  padding: 10px;
+}
+
+.checkmark {
+}
+
+.checkbox-container:hover input - .checkmark {
+}
+
+#celsius-text {
+  font-size: 20px;
+}
+
+.inputs {
+  display: flex;
+}
+
+.checkbox-container {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+#error-toast {
+  position: absolute;
+  top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 25%;
+}
